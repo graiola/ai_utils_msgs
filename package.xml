@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ai_utils_msgs</name>
+  <version>0.0.0</version>
+  <description>Interfaces and message definitions for ai_utils</description>
+
+  <maintainer email="gennaro.raiola@gmail.com">Gennaro Raiola</maintainer>
+
+  <author>Federico Rollo</author>
+
+  <license>GNU General Public License v3.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>message_generation</depend>
+  <depend>message_runtime</depend>
+  <depend>std_msgs</depend>
+
+</package>
